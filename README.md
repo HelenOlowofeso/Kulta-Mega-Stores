@@ -1,5 +1,5 @@
 # Kulta-Mega-Stores
-Headquartered in LAGOS, Kultra Mega Stores (KMS) specializes in office supplies and furniture. The company's customers range from individual consumers and small businesses (retail), to corporate organizations (wholesale) located in the LAGOS, Nigeria.
+Headquartered in LAGOS, Kulta Mega Stores (KMS) specializes in office supplies and furniture. The company's customers range from individual consumers and small businesses (retail), to corporate organizations (wholesale) located in the LAGOS, Nigeria.
 As a Business Intelligence Analyst to help the Abuja division of KMS, the Business Manager has given you a file containing Order data from 2009-2012 and they would like analysis and presentation of insights from the analysis.
 
 Case 1: Which product category had the highest sales?
@@ -13,7 +13,7 @@ Case 4: Advise the management of KMS on what to to do to increase the revenue fr
 
 Case 5: KMS incurred the most shipping cost using which shipping method?
 
-Case 6: Who are the most valuable customers and what do they purchase?
+Case 6: Who are the most valuable customers?
 
 Case 7: If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
 
